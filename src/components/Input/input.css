@@ -1,0 +1,13 @@
+.userInput {
+    display: flex;
+    position: fixed;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 800px;
+    justify-content: space-between;
+    bottom: 600px;
+}
+
+input{
+    width: 300px;
+}
